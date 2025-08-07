@@ -1,49 +1,88 @@
-## Sobre Mim
+# 💻 Rubens Dias Bicalho
 
-- 🎓 **Estudante** de Ciência da Computação na *PUC Minas*.
-- 💻 Interessado em **desenvolvimento de software**, **inteligência artificial** e **ciência de dados**.
-- 🌱 Atualmente aprendendo **C**, **C++** e **frameworks** modernos de desenvolvimento web.
-- 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
+**`Estudante de Ciência da Computação`** | **`Desenvolvedor Full Stack`** | **`Entusiasta de IA e Cibersegurança`**
 
-## Projetos
+---
 
-Aqui no GitHub, você encontrará projetos nos quais trabalhei ou estou trabalhando atualmente. Eles variam desde pequenos scripts até aplicações mais complexas. Alguns destaques incluem:
+## 🧠 Sobre Mim
 
-- **Projeto de Inteligência Artificial**: Uma aplicação que utiliza machine learning para prever resultados com base em dados históricos.
-- **Aplicativo Web**: Um projeto de desenvolvimento web que explora as funcionalidades de frameworks modernos.
-- **Scripts de Automação**: Scripts para automatizar tarefas rotineiras e melhorar a eficiência do dia a dia.
+Atualmente curso Ciência da Computação na **PUC Minas** e venho construindo uma base sólida em desenvolvimento de software, com ênfase em **back-end**, **inteligência artificial**, **cibersegurança** e **computação gráfica**.
 
-## Habilidades
+Tenho como objetivo me tornar um profissional completo, capaz de entregar soluções eficientes e criativas, aliando conhecimento técnico, raciocínio lógico e senso estético quando necessário.  
+Sou curioso, autodidata e busco constantemente aprimorar minhas habilidades através de projetos práticos, desafios técnicos e aprendizado contínuo.
 
-- **Linguagens de Programação**: C, C++, JavaScript.
-- **Ferramentas e Tecnologias**: Git, MySQL.
-- **Frameworks e Bibliotecas**: Node.js, Bootstrap.
+Gosto de desenvolvimento web e sou entusiasta de cibersegurança, com interesse especial em **pentest**, **red team**, **blue team** e **análise forense**. Também tenho curiosidade crescente por áreas como **DevSecOps**, **segurança de APIs** e **cloud security**. Estou sempre aprendendo algo novo e sigo explorando onde meu perfil técnico se encaixa melhor.
+
+---
+
+## 💼 Principais Habilidades
+
+- **Linguagens:** C, C++, Java, C#, Python, JavaScript, TypeScript  
+- **Web:** Next.js, Django, Node.js, HTML, CSS, Tailwind  
+- **Back-end:** Spring Boot, Spark (Java), REST APIs, JWT, OAuth  
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
+- **DevOps:** Git, Docker, GitHub Actions  
+- **Games:** Unreal Engine 5  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Unreal Engine 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-##
+---
 
-Sinta-se à vontade para entrar em contato comigo para discutir projetos, ideias ou oportunidades de colaboração. Obrigado por visitar meu perfil!
+## 📊 Estatísticas
 
-## Contato
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=rubensbkl&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensbkl&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/rubens-dias-bicalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:rubens.dias08@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/rubiinss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCauvsxx6Nnr0M0QscMljVOw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rubensdias00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rubens-dias-bicalho/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rubens.dias08@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/rubiinss" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCauvsxx6Nnr0M0QscMljVOw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/rubensdias00" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
+
+---
+Atualmente curso Ciência da Computação na **PUC Minas** e venho construindo uma base sólida em desenvolvimento de software, com ênfase em **back-end**
+**`✨ Ad astra per aspera ✨`**
