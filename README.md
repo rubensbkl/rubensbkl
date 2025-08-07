@@ -63,26 +63,4 @@ Gosto de desenvolvimento web e sou entusiasta de cibersegurança, com interesse 
 
 ---
 
-## 📫 Contato
-
-<div>
-  <a href="https://www.linkedin.com/in/rubens-dias-bicalho/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rubens.dias08@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/rubiinss" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCauvsxx6Nnr0M0QscMljVOw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/rubensdias00" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
----
-Atualmente curso Ciência da Computação na **PUC Minas** e venho construindo uma base sólida em desenvolvimento de software, com ênfase em **back-end**
 **`✨ Ad astra per aspera ✨`**
