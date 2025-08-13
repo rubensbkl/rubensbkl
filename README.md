@@ -19,7 +19,7 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
 ## 💼 Principais Habilidades
 
 - **Linguagens:** C, C++, Java, C#, Python, JavaScript, TypeScript  
-- **Web:** Next.js, Vue.js, Django, Node.js, HTML, CSS, Tailwind  
+- **Front-end:** Next.js, Vue.js, Django, Node.js, HTML, CSS, Tailwind  
 - **Back-end:** Spring Boot, Spark (Java), REST APIs, JWT, OAuth  
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
 - **DevOps:** Git, Docker, GitHub Actions, AWS, DigitalOcean
