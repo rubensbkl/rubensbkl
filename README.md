@@ -74,6 +74,3 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
   </tr>
 </table>
 
----
-
-> ✨ *Ad astra per aspera* ✨
