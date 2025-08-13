@@ -22,8 +22,8 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
 - **Web:** Next.js, Vue.js, Django, Node.js, HTML, CSS, Tailwind  
 - **Back-end:** Spring Boot, Spark (Java), REST APIs, JWT, OAuth  
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **DevOps:** Git, Docker, GitHub Actions  
-- **Games:** Unreal Engine 5  
+- **DevOps:** Git, Docker, GitHub Actions, AWS, DigitalOcean
+- **Engines:** Unreal Engine, Unity
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -49,5 +49,8 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Unreal Engine 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img align="center" alt="DigitalOcean" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </div>
 
