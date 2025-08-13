@@ -51,26 +51,3 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
   <img align="center" alt="Unreal Engine 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
 </div>
 
----
-
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=rubensbkl&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensbkl&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
-
