@@ -50,7 +50,7 @@ Atualmente cursando **`Ciência da Computação`** na **`Pontifícia Universidad
   <img align="center" alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Unreal Engine 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="DigitalOcean" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </div>
 
